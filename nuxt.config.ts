@@ -32,4 +32,5 @@ export default defineNuxtConfig({
       routes: ["/sitemap.xml"],
     },
   },
+  ssr: true,
 });
