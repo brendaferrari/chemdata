@@ -1,1 +1,0 @@
-import{u as n}from"./BB9Tfqcv.js";import{s as u}from"./Nanb9n06.js";function i(e,a){const{title:r,titleTemplate:o,...m}=e;return n({title:r,titleTemplate:o,_flatMeta:m},{...a,transform(t){const s=u({...t._flatMeta});return delete t._flatMeta,{...t,meta:s}}})}export{i as u};
