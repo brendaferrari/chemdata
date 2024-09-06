@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: '/chemdata/',
     pageTransition: { name: "page", mode: "out-in" },
     head: {
       link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }],
@@ -26,6 +25,7 @@ export default defineNuxtConfig({
   css: ["~/assets/styles/main.css"],
   colorMode: {
     classSuffix: "",
+    preference: "light",
   },
   nitro: {
     prerender: {

@@ -38,6 +38,8 @@ const nextMode = computed(() => {
     nextModeIndex = currentModeIndex + 1;
   }
 
+  console.log("modes[nextModeIndex]: ", modes[nextModeIndex]);
+
   return modes[nextModeIndex];
 });
 
