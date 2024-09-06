@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: '/https://brendaferrari.github.io/chemdata/',
+    baseURL: '/chemdata/',
     pageTransition: { name: "page", mode: "out-in" },
     head: {
       link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }],
