@@ -10,7 +10,7 @@
             class="flex p-2 hover:bg-gray-200 rounded dark:hover:bg-gray-800"
           >
             <img
-              src="~/assets/images/icon.svg"
+              src="/images/icon.svg"
               class="flex h-12 w-12 hover:bg-gray-200 dark:hover:bg-gray-800"
             />
           </NuxtLink>
