@@ -5,7 +5,7 @@
         <div class="p-6">
           <img
             class="mx-auto rounded-full w-96 h-96"
-            src="public\profile.png"
+            src="public/profile.png"
           />
         </div>
         <div
@@ -76,7 +76,7 @@
             <h3>About me</h3>
           </div>
           <div>
-            <img class="rounded w-auto h-44" src="public\me.jpg" />
+            <img class="rounded w-auto h-44" src="public/me.jpg" />
           </div>
           <div class="box-content bg-violet-400 rounded-full h-2 w-16"></div>
           <span class="text-justify not-prose dark:text-zinc-800">
