@@ -89,6 +89,7 @@ body {
   align-items:center;
   justify-content:center;
   text-align:center;
+  color: #151617;
 }
 
 .thought:before {
@@ -103,4 +104,5 @@ body {
   background-color: #fff;
   border-radius: 50%;
   display: inline-block;
+  color: #151617;
 }
